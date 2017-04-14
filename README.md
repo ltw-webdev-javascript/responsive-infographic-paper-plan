@@ -4,7 +4,7 @@ time: '4 hours'
 deliverables: 'Paper—lots of paper'
 ---
 
-# Infographic effects & interactivity
+# Responsive infographic paper plan
 
 ## Overview
 
